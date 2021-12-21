@@ -12,3 +12,7 @@ a Arcgis on python
   conda activate venv/
   conda install --file requirements.txt -c esri 
   ```
+## Run example
+```
+jupyter notebook
+```
